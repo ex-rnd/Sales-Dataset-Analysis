@@ -2,8 +2,7 @@
 - Sales data ETL and exploratory analysis notebook
 - A compact, reproducible demonstration of data sourcing, cleaning, feature engineering, exploratory data analysis, time-series and category-level revenue visualizations applied to a retail sales dataset.
 
-<img width="852" height="547" alt="HeightWeight-ScatterPlot" src="https://github.com/user-attachments/assets/44e60e39-58ec-4564-a783-902b9151cd85" />
-
+<img width="728" height="479" alt="Revenue-Profit-Transaction-ScatterPlot" src="https://github.com/user-attachments/assets/c56e4443-0dd6-4618-b2d5-be8c26da26b7" />
 
 ### 📋 Purpose
 - Provide a clear example of loading a sales CSV, inspecting and cleaning data, engineering business-ready features (profit, margins, age groups), computing descriptive statistics, testing distributional assumptions, performing correlation analysis, and visualizing revenue trends and category/country contributions.
