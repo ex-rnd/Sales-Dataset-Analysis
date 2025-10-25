@@ -7,7 +7,6 @@
 </p>
 
 
-
 ### 📋 Purpose
 - Provide a clear example of loading a sales CSV, inspecting and cleaning data, engineering business-ready features (profit, margins, age groups), computing descriptive statistics, testing distributional assumptions, performing correlation analysis, and visualizing revenue trends and category/country contributions.
 
